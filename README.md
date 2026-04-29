@@ -7,5 +7,4 @@ The “Aberrant Simulations” file provides simulated item‑response data with
 
 The “MTurk Demonstration” file is designed to show how RobustIRT can be applied to online testing environments where low‑effort or inconsistent responding is common. To use this demonstration:
   - Upload the MTurk dataset into RStudio.
-  - Ensure the response data is formatted properly.
   - Follow the accompanying script to fit IRT models, compute robust estimates, and identify aberrant responders.
